@@ -24,14 +24,14 @@ In most cases programming is about data manipulation, gathering data, analyzing 
 ### Data types
 #### Integers (int)
 Any data that is a numeric value without decimal point is considered an _**Integer**_, for example an age (24), a year (2003) and so on.
-> _*Note*_: Of course, if you already are a developer you'll know is more complex than this, but, let's leave it this way for now )
+> **Note** Of course, if you already are a developer you'll know is more complex than this, but, let's leave it this way for now )
 
 #### Floats (float)
 Any data that is a numeric value with decimal point is considered a _**float**_, an example of a float could be `20.3`
 
 #### Strings
 Strings are characters sequences, and when we say characters we mean alphanumeric symbols like we humans use to communicate (letters). Usually in most programming languages we can identify a String because they are always surrounded by a symbol, in most cases a double coute `"`, an example of a string can be: `"Alberto del Rio"`
->  **Note:** Spaces are considered also a character
+>  **Note** Spaces are considered also a character
 
 #### Booleans (bool)
 Here it can get a little more complex... or not... Booleans a the representation of two natural states... _On_ or _Off_... in programming we refer to booleans as something that can be `true` or `false`. For now is all you need to know about booleans.
@@ -71,3 +71,19 @@ Blocks are no difficult to learn, they are just how we group sentences, there ar
 ### Key words (Reserved word)
 
 Key words are words that a programming language associates to specific actions, operations or definitions for it's own work, don't worry if you don't understand right now, for now you just need to know that key words are something special and somethings do something special, we'll talk about this later.
+
+---
+
+### Program or application
+
+As previously mentioned a program is a set of instructions to tell the computer what to do. Usually this instructions are stored in files with an special extension (Depending on the language), for example: `MyApp.java` for java case, `myApp.js` for Javascript, `my_app.py` for python, `myApp.cpp` for C++ and so on.
+
+---
+
+
+### Object Oriented Programming (OOP)
+
+Well, this is a little complex to explain right now, but, is mentioned above, programs or applications (Software in general), are a set of instructions, Object Oriented Programming is a way of writing this programs, we can called a technique of codeing, there are a lot of other techniques and patters for creating a program, for esample: [structured](https://en.wikipedia.org/wiki/Structured_programming), [Functional](https://en.wikipedia.org/wiki/Functional_programming), [POO](https://en.wikipedia.org/wiki/Object-oriented_programming), etc. _(click [here](https://en.wikipedia.org/wiki/Programming_paradigm) to see more)_
+
+
+---
